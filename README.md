@@ -12,6 +12,8 @@ a [Sails v1](https://sailsjs.com) application
 + [Community support options](https://sailsjs.com/support)
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
 
++ [Interesting article](https://medium.com/@peterchang_82818/asycn-await-bible-sequential-parallel-and-nest-4d1db7b8b95c)
+
 
 ### Version info
 
