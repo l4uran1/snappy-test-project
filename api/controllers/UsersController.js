@@ -19,7 +19,6 @@ module.exports = {
     configurationObj.html = "<h1>It Works</h1>";
 
     sails.log.debug("Getting a user data");
-
     _.each(users, function(user) {
         Users.findOne({
             userId: user
